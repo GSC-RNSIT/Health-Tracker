@@ -9,3 +9,13 @@ All the information will be stored on user's device. The user can review, update
 App also remaids the patient of any clinical appointment or medical prescibtions.(yes, like a remainder)
 
 He can share all this information with his doctor which will help him diagnose the patient efficiently.
+
+Authored by:
+  S.V.Ganesh Karthik
+  Shiva Trishul Reddy H
+
+Team Name:
+  Health-Tracker
+ 
+Android Study Group.
+
