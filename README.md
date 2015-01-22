@@ -11,7 +11,7 @@ App also remaids the patient of any clinical appointment or medical prescibtions
 He can share all this information with his doctor which will help him diagnose the patient efficiently.
 
 Authored by:
-  S.V.Ganesh Karthik
+  S.V.Ganesh Karthik and
   Shiva Trishul Reddy H
 
 Team Name:
